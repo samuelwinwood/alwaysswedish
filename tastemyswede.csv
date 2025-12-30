@@ -1,0 +1,101 @@
+id,level,swedish_sentence,english_sentence,missing_word,word_bank,hint,topic
+1,easy,"Hej, jag heter __.","Hi, my name is Anna.",Anna,Anna|kaffe|tack|vatten,It is a common name.,greetings
+2,easy,"En __, tack.","A coffee, please.",kaffe,kaffe|te|öl|mjölk,Sweden's favorite morning drink.,cafe
+3,easy,"Tack __ mycket.","Thank you very much.",så,så|nu|bra|här,Connects 'Tack' and 'mycket'.,politeness
+4,easy,"Var ligger __?","Where is the toilet?",toaletten,toaletten|banken|parken|skolan,Used for restrooms.,travel
+5,easy,"Jag vill ha __.","I want water.",vatten,vatten|bröd|notan|glass,Basic drink.,cafe
+6,easy,"God __!","Good morning!",morgon,morgon|natt|dag|kväll,Start of the day.,greetings
+7,easy,"__ så mycket!","Thank you so much!",Tack,Tack|Hej|Nej|Ja,Polite word.,politeness
+8,easy,"Vi ses __.","See you later.",senare,senare|idag|nu|alltid,Later time.,greetings
+9,easy,"Vad __ du?","What are you doing?",gör,gör|heter|bor|äter,Active question.,basics
+10,easy,"Jag älskar __.","I love you.",dig,dig|mig|det|oss,Romantic phrase.,feelings
+11,easy,"Huset är __.","The house is red.",rött,rött|blått|gult|vitt,Iconic Swedish color.,basics
+12,easy,"Ett glas __, tack.","A glass of wine, please.",vin,vin|öl|mjölk|juice,Evening drink.,cafe
+13,easy,"Vart är __ på väg?","Where is the bus going?",bussen,bussen|tåget|bilen|båten,Public transport.,travel
+14,easy,"Jag är __.","I am hungry.",hungrig,hungrig|trött|glad|ledsen,Needs food.,feelings
+15,easy,"__ det regnar!","How it rains!",Vad,Vad|Vem|När|Var,Weather complaint.,weather
+16,easy,"Talar du __?","Do you speak English?",engelska,engelska|svenska|tyska|franska,For tourists.,basics
+17,easy,"__ så hemskt mycket.","Thank you ever so much.",Tack,Tack|Hej|Vi|Du,Formal politeness.,politeness
+18,easy,"Smaklig __!","Enjoy your meal!",måltid,måltid|dryck|fika|glass,Before eating.,cafe
+19,easy,"Jag __ glass.","I eat ice cream.",äter,äter|dricker|ser|går,Consuming food.,basics
+20,easy,"Här är __.","Here is the menu.",menyn,menyn|notan|bussen|tåget,Ordering food.,cafe
+21,easy,"Vad __ klockan?","What time is it?",är,är|gör|bor|ser,Asking time.,basics
+22,easy,"Solen __.","The sun is shining.",skiner,skiner|regnar|snöar|blåser,Nice weather.,weather
+23,easy,"Välkommen __.","Welcome home.",hem,hem|här|där|ut,Arriving.,greetings
+24,easy,"En glass __.","An ice cream please.",tack,tack|hej|ja|nej,Ordering.,cafe
+25,easy,"Jag är __.","I am tired.",trött,trött|glad|hungrig|arg,Feeling sleepy.,feelings
+26,easy,"Bilen är __.","The car is blue.",blå,blå|röd|gul|grön,Colors.,basics
+27,easy,"Vi har __.","We have a dog.",hund,hund|katt|häst|fågel,Pets.,home
+28,easy,"Maten är __.","The food is good.",god,god|kall|varm|dyr,Taste.,cafe
+29,easy,"Det är __.","It is hot.",varmt,varmt|kallt|ljust|mörkt,Temperature.,weather
+30,easy,"Jag __ dig.","I see you.",ser,ser|hör|rör|går,Vision.,basics
+31,easy,"__ vill sova.","I want to sleep.",Jag,Jag|Du|Vi|De,Pronouns.,basics
+32,easy,"Vem är __?","Who is that?",det,det|jag|du|vi,Identifying.,basics
+33,easy,"Det är __.","It is mine.",min,min|din|hans|hennes,Possession.,basics
+34,easy,"Kom __!","Come here!",hit,hit|dit|ut|in,Movement.,basics
+35,easy,"Jag __ kaffe.","I drink coffee.",dricker,dricker|äter|ser|bor,Liquids.,cafe
+36,easy,"Ett, två, __.","One, two, three.",tre,tre|fyra|fem|sex,Numbers.,basics
+37,easy,"Det är __.","It is Monday.",måndag,måndag|tisdag|onsdag|helg,Days.,basics
+38,easy,"__ är du?","Where are you?",Var,Var|Vem|När|Hur,Location.,basics
+39,easy,"Gå __.","Go out.",ut,ut|in|upp|ner,Directions.,basics
+40,easy,"Öppna __.","Open the door.",dörren,dörren|fönstret|boken|bilen,Actions.,home
+41,easy,"Stäng __.","Close the window.",fönstret,fönstret|dörren|boken|påsen,Actions.,home
+42,easy,"Min __ är stor.","My family is big.",familj,familj|vän|bil|hund,People.,home
+43,easy,"Det är en __.","It is a cat.",katt,katt|hund|fågel|fisk,Animals.,home
+44,easy,"Titta på __!","Look at me!",mig,mig|dig|oss|dem,Attention.,basics
+45,easy,"Jag mår __.","I feel good.",bra,bra|dåligt|illa|trött,Health.,feelings
+46,easy,"Det snöar __.","It is snowing today.",idag,idag|igår|imorgon|nu,Time.,weather
+47,easy,"Är du __?","Are you happy?",glad,glad|ledsen|arg|trött,Emotions.,feelings
+48,easy,"Hej __!","Hi friend!",vän,vän|mamma|pappa|barn,People.,greetings
+49,easy,"Ge mig __.","Give me that.",det,det|jag|du|vi,Requests.,basics
+50,easy,"Vi __ nu.","We go now.",går,går|äter|ser|sover,Movement.,basics
+51,intermediate,"Kan jag få __?","Can I have the check?",notan,notan|menyn|hjälp|vatten,At cafe.,cafe
+52,intermediate,"Vad __ det?","How much does it cost?",kostar,kostar|heter|gör|bor,Shopping.,shopping
+53,intermediate,"Jag __ inte svenska.","I do not speak Swedish.",talar,talar|heter|bor|dricker,Language.,basics
+54,intermediate,"Var kan jag __?","Where can I park?",parkera,parkera|sova|äta|gå,Driving.,travel
+55,intermediate,"Hjälp __, tack!","Help me, please!",mig,mig|dig|oss|dem,Emergency.,basics
+56,intermediate,"Jag __ en smörgås.","I am eating a sandwich.",äter,äter|dricker|ser|går,Consuming food.,basics
+57,intermediate,"Vilken __ är det?","What time is it?",tid,tid|dag|sol|mat,Time.,basics
+58,intermediate,"Det __ bra.","That works well.",går,går|står|ser|hör,Idiom.,basics
+59,intermediate,"Välkommen __!","Welcome home!",hem,hem|här|där|ut,Arriving.,greetings
+60,intermediate,"Jag __ i Stockholm.","I live in Stockholm.",bor,bor|är|går|ser,Residence.,basics
+61,intermediate,"Kan du __ mig?","Can you help me?",hjälpa,hjälpa|se|tala|äta,Assistance.,basics
+62,intermediate,"Vi tar en __.","Let's have a coffee break.",fika,fika|glass|notan|promenad,Culture.,culture
+63,intermediate,"Hur __ du?","How are you?",mår,mår|gör|bor|heter,Health.,feelings
+64,intermediate,"Jag __ dig.","I miss you.",saknar,saknar|älskar|ser|hör,Emotions.,feelings
+65,intermediate,"Vad __ det här?","What is this called?",heter,heter|gör|bor|talar,Naming.,basics
+66,intermediate,"Det __ mycket.","It costs a lot.",kostar,kostar|talar|heter|bor,Money.,shopping
+67,intermediate,"Ursäkta __.","Excuse me.",mig,mig|dig|oss|det,Politeness.,politeness
+68,intermediate,"Jag __ inte.","I don't know.",vet,vet|kan|vill|måste,Knowledge.,basics
+69,intermediate,"Vill du __?","Do you want to dance?",dansa,dansa|äta|sova|gå,Social.,culture
+70,intermediate,"Kan du __?","Can you drive?",köra,köra|äta|sova|gå,Skills.,travel
+71,intermediate,"Var är __?","Where is the station?",stationen,stationen|bilen|huset|fönstret,Travel.,travel
+72,intermediate,"Vänta på __!","Wait for me!",mig,mig|dig|oss|dem,Commands.,basics
+73,intermediate,"Solen går __.","The sun goes down.",ner,ner|upp|ut|in,Nature.,weather
+74,intermediate,"Jag __ kaffe.","I like coffee.",gillar,gillar|saknar|heter|bor,Preferences.,cafe
+75,intermediate,"Det är __.","It is expensive.",dyrt,dyrt|billigt|bra|god,Money.,shopping
+76,intermediate,"Är du __?","Are you ready?",klar,klar|trött|glad|ledsen,Status.,basics
+77,intermediate,"Hoppas __ ses.","Hope we meet.",vi,vi|jag|du|de,Social.,greetings
+78,intermediate,"Trevligt att __!","Nice to meet you!",träffas,träffas|äta|sova|gå,Social.,greetings
+79,intermediate,"Jag __ snart.","I am coming soon.",kommer,kommer|går|ser|hör,Time.,basics
+80,intermediate,"Det är __.","It is beautiful.",vackert,vackert|fult|bra|god,Nature.,weather
+81,intermediate,"Jag __ arbeta.","I must work.",måste,måste|kan|vill|får,Obligation.,basics
+82,intermediate,"Kan jag __?","Can I sit?",sitta,sitta|stå|gå|springa,Social.,basics
+83,intermediate,"Boken är __.","The book is good.",bra,bra|dålig|kall|varm,Objects.,home
+84,intermediate,"Vart __ du?","Where are you going?",ska,ska|har|är|gör,Future.,travel
+85,intermediate,"Jag __ hämta.","I will fetch.",ska,ska|har|är|gör,Action.,basics
+86,intermediate,"Det __ imorgon.","It will rain tomorrow.",regnar,regnar|snöar|blåser|skiner,Future weather.,weather
+87,intermediate,"Hon __ svenska.","She speaks Swedish.",talar,talar|bor|heter|dricker,Language.,basics
+88,intermediate,"Vi __ glass.","We want ice cream.",vill,vill|kan|måste|får,Desire.,cafe
+89,intermediate,"Vems __ är det?","Whose bag is it?",väska,väska|bil|hus|bok,Possession.,travel
+90,intermediate,"Titta i __.","Look in the mirror.",spegeln,spegeln|fönstret|dörren|boken,Home.,home
+91,intermediate,"Jag __ frukost.","I am making breakfast.",lagar,lagar|äter|dricker|ser,Food.,home
+92,intermediate,"Det __ kallt.","It feels cold.",känns,känns|ser|hör|luktar,Senses.,weather
+93,intermediate,"Lyssna på __.","Listen to the music.",musiken,musiken|boken|bilen|huset,Senses.,culture
+94,intermediate,"Drick din __.","Drink your milk.",mjölk,mjölk|vatten|juice|te,Food.,cafe
+95,intermediate,"Sitt på __.","Sit on the chair.",stolen,stolen|bordet|golvet|sängen,Home.,home
+96,intermediate,"Läs __.","Read the book.",boken,boken|tidningen|brevet|skylten,Action.,basics
+97,intermediate,"Skriv ett __.","Write a letter.",brev,brev|ord|namn|bok,Action.,basics
+98,intermediate,"Väskan är __.","The bag is heavy.",tung,tung|lätt|bra|god,Travel.,travel
+99,intermediate,"Det __ gott.","It smells good.",luktar,luktar|ser|hör|känns,Senses.,home
+100,intermediate,"Jag __ pengar.","I need money.",behöver,behöver|har|vill|ser,Necessity.,shopping
